@@ -21,8 +21,6 @@ Sou um desenvolvedor back-end apaixonado por criar soluções tecnológicas
 <div align="center">
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davddaniel01&show_icons=true&theme=transparent)
-
 ## Skills 🚀
 </div>
 
